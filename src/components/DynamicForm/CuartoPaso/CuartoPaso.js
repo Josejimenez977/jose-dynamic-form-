@@ -1,5 +1,5 @@
 import { useState } from "react";
-import { Col, Container, Row, Form } from "react-bootstrap";
+import { Container, Row } from "react-bootstrap";
 import Select from "react-select";
 
 import Resume from "../Resume";
